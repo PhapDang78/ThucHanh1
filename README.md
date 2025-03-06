@@ -13,6 +13,11 @@ Người già (>65), Người lớn (6-65) | trẻ em (2-6) | em bé (>2)
 
 
 ![image](https://github.com/user-attachments/assets/0f67d84c-ea0d-4f9d-aff4-16eaf46e376d)
+
+
+
+
+
 demo
 
 
